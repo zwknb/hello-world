@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="huaban33" unicode="&#58887;" d="M750.592-64.512h-180.224v299.52A58.368 58.368 0 0 1 512 292.864a56.832 56.832 0 0 1-39.936-16.384 60.416 60.416 0 0 1-18.432-43.52v-297.472H273.408A90.624 90.624 0 0 0 182.784 25.6v358.4H63.488v29.696a102.4 102.4 0 0 0 35.328 77.312L512 842.24l413.184-351.232a102.4 102.4 0 0 0 35.328-77.312V384h-119.296v-358.4a91.136 91.136 0 0 0-90.624-90.112z m-117.76 62.464h117.76a28.672 28.672 0 0 1 28.16 28.672V444.928h102.4L512 760.32 141.824 444.928h102.4V25.6a28.16 28.16 0 0 1 28.16-28.16h117.76V230.4a123.392 123.392 0 0 0 37.376 88.064 125.44 125.44 0 0 0 86.016 34.816 121.856 121.856 0 0 0 118.272-120.832z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
